@@ -1,6 +1,7 @@
 ### Oii! Eu sou a Jackeline  👋
 
-- 🌱 Estou estudando desenvolvimento web / software de forma independente 🤓 
+- 🌱 Estou estudando desenvolvimento web / software de forma independente 🤓
+- 🎓 Graduada em gestão financeira 
 
 <div align="center">
   <a href="https://github.com/jackjoysslopes">
